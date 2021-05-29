@@ -21,8 +21,6 @@ print(client.LinearKline.LinearKline_markPrice(symbol="BTCUSDT", interval="m", l
 
 
 
-#
-
 # response
 
 {
